@@ -49,7 +49,7 @@ This organization serves as a hub for our collaborative projects, ranging from s
   - 💻 **Role:** Specializes in React, ASP.Net to develop and style user interfaces.
 - **[Trần Hoàng Nam](https://github.com/Nam-th)** - Frontend Developer
   - 💻 **Role:** Specializes in Nextjs, ASP.Net to develop and style user interfaces.
-- **[Nguyễn Ngọc Quỳnh Mai](https://github.com/example)** - Tester and AI
+- **[Nguyễn Ngọc Quỳnh Mai](https://github.com/just-mein)** - Tester and AI
   - 🔍 **Role:** Responsible for testing software to ensure it meets quality standards and build AI integration into the project
 
 <table align="center">
