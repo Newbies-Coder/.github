@@ -43,7 +43,7 @@ This organization serves as a hub for our collaborative projects, ranging from s
   - ⚙️ **Role:** Specializes in Node, Nestjs, .Net, and Java works on server-side logic, databases, and deploy application.
 - **[Trương Văn Đạt](https://github.com/dattv23)** - Frontend Developer
   - 💻 **Role:** Specializes in React, Nextjs, ASP.Net to develop and style user interfaces.
-- **[Phan Chấn Tây](https://github.com/ngcuyen)** - Frontend Developer
+- **[Phan Chấn Tây](https://github.com/chantay123)** - Frontend Developer
   - 💻 **Role:** Specializes in React, ASP.Net to develop and style user interfaces.
 - **[Lê Phạm Ngọc Uyển](https://github.com/ngcuyen)** - Frontend Developer
   - 💻 **Role:** Specializes in React, ASP.Net to develop and style user interfaces.
